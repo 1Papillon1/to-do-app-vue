@@ -1,0 +1,13 @@
+/* 
+    layout.scss
+*/
+
+.layout {
+    background-color: rgb(255, 255, 255);
+    margin: 2vh 1vw;
+    height: 96vh;
+    &__title {
+        padding: 0;
+        margin: 0;
+    }
+}
