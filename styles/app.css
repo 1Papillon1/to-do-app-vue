@@ -23,4 +23,24 @@ body {
 .layout__title {
   padding: 0;
   margin: 0;
-}/*# sourceMappingURL=app.css.map */
+}
+
+/* 
+    images.scss
+*/
+.image {
+  height: auto;
+  width: 50%;
+}
+
+/*
+    flex.scss
+*/
+.flex {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+/* 
+    buttons.scss
+*//*# sourceMappingURL=app.css.map */

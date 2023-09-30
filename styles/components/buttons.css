@@ -1,0 +1,16 @@
+/* 
+    buttons.scss
+*/
+.button {
+  font-size: 20px;
+  font-family: "Roboto";
+  padding: 20px 20px;
+  width: 200px;
+  background-color: #00BBBC;
+  outline: none;
+  color: white;
+  border: 0;
+}
+.button:hover {
+  cursor: pointer;
+}/*# sourceMappingURL=buttons.css.map */

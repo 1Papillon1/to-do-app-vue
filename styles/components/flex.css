@@ -4,4 +4,10 @@
 .flex {
   display: flex;
   flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+
+.flex__box {
+  width: 45vw;
+  margin-top: 5rem;
 }/*# sourceMappingURL=flex.css.map */
